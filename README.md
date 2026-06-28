@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/claudfuen/Pomo/stargazers"><img src="https://img.shields.io/github/stars/claudfuen/Pomo?style=flat-square&color=0D9488" alt="Stars" /></a>
   <a href="https://github.com/claudfuen/Pomo/releases/latest"><img src="https://img.shields.io/github/v/release/claudfuen/Pomo?style=flat-square&color=0D9488" alt="Release" /></a>
   <img src="https://img.shields.io/badge/platform-macOS%2014+-0D9488?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/swift-5.9-F05138?style=flat-square" alt="Swift" />
